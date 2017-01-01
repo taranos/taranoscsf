@@ -53,7 +53,7 @@ Taranos:CSF is currently distributed as two main components:  [*Taranos Core*](h
 ## What is the project's current status? [January 2017]
 The goal of the Taranos Project is to provide a cloud-friendly ecosystem of open source tools for sonification sharing.  Taranos:CSF is intended to be a hub for a broad range of Taranos components and comprises the first phase of this effort.
 
-The plan for the initial set of Taranos:CSF deliverables and their current status can be found on the [Project Status](Project-Status) wiki page.
+The plan for the initial set of Taranos:CSF deliverables and their current status can be found on the [Project Status](https://github.com/taranos/taranoscsf/wiki/Project-Status) wiki page.
 
 ## How do I get started?
 Visit the [project wiki](https://github.com/taranos/taranoscsf/wiki) for helpful guides on building and using the framework and components.
