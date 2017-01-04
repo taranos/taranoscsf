@@ -38,6 +38,8 @@ Possible applications include:
 
 All you have to supply are the signal providers that convert your source data into Taranos Signaling API calls.  For sound rendering you may use one of the project-supplied clients or provide your own.  Since the APIs are open and use RESTful HTTP requests, signal providers and alternative rendering clients can be easily implemented in practically any modern scripting or programming language and on a wide variety of networkable devices.
 
+What does a _Taranos:CSF_ sonification sound like?  It's largely left to the imagination of the designer.  Here's a 2-minute [sample](http://netrogenblue.com/Sample1.mp3) of a real-time sonification of price movements of eight NYSE-listed shares captured by the author.  Each share was represented by a dedicated subject emitter spaced equally distant around a central probe and using a custom waveset.  Signaling data was provided by a Python script which used the Yahoo Finance API package to fetch the pricing data and feed it to a Taranos server using the Taranos Signaling API.  A custom Unity3D-based sound rendering client then fetched the waveform reports from the server using the Taranos Rendering API and performed them per the waveset configuration.
+
 ## How does it work?
 At the highest level _Taranos:CSF_ simulates a sound pressure wavefield populated by virtual sound emitting objects called subjects and virtual sound detecting objects called probes.  Subject and probe objects are user-configurable and can be freely moved and oriented within the modeled wavefield as desired using the Rendering API.
 
