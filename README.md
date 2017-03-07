@@ -1,3 +1,5 @@
+![logo](http://netrogenblue.com/taranos/taranos-logo1-p.png)
+
 # *Taranos:Cloud Sonification Framework (CSF)*
 
 ## What is it?
