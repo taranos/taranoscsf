@@ -1,6 +1,6 @@
 ![logo](http://netrogenblue.com/taranos/taranos-logo1-p.png)
 
-# *Taranos:Cloud Sonification Framework (CSF)*
+# *Taranos:CSF (Cloud Sonification Framework)*
 
 ## What is it?
 _Taranos:CSF_ is an experimental new information [sonification](https://en.wikipedia.org/wiki/Sonification) framework built from the ground up to combine two domain-specific data models - one for signal collection and processing (input) and the other for virtual sound field modeling and rendering (output) - all within a single and easily deployable microservice.  All framework features are accessible through well-defined web APIs enabling easy collaboration among diverse and widely-distributed signal provider and sonification rendering endpoints.
