@@ -54,7 +54,7 @@ The _Taranos:CSF_ data model is built with information confidentiality in mind. 
 ## What can I *not* do with it?
 _Taranos:CSF_ is currently distributed as two main components:  [*Taranos Core*](https://github.com/taranos/taranoscsf-core) and [*Taranos Reference Server*](https://github.com/taranos/taranoscsf-refserver).  They are licensed separately as open source for non-proprietary redistribution.  For proprietary redistribution of the *Taranos Core* component a commercial license is required.  See [Licensing](Licensing.md) for more details.  
 
-## What is the project's current status? [January 2017]
+## What is the project's current status?
 The goal of the Taranos Project is to provide a cloud-friendly ecosystem of open source tools for sonification sharing.  _Taranos:CSF_ is intended to be a hub for a broad range of Taranos components and comprises the first phase of this effort.
 
 The plan for the initial set of _Taranos:CSF_ deliverables and their current status can be found on the [Project Status](https://github.com/taranos/taranoscsf/wiki/Project-Status) wiki page.
