@@ -2,6 +2,10 @@
 
 # *Taranos:CSF (Cloud Sonification Framework)*
 
+>Impressionistic sounds affect our subconscious and our state of mind. This is due possibly to the fact that sounds, if present, are continuously entering our mind whether or not we are actively listening. Visual inputs, on the other hand, require the user's attention. If we are distracted from the TV set, we cease to concentrate on the picture and the image leaves our mind. Sound therefore offers the programmer a direct path to the user's mind – bypassing his thought processes and zeroing in on his emotions.  
+>  
+>-- Fraser B. (1982). Chapter 7: Sound. *De Re Atari: A Guide to Effective Programming*
+
 ## What is it?
 _Taranos:CSF_ is an experimental new information [sonification](https://en.wikipedia.org/wiki/Sonification) framework built from the ground up to combine two domain-specific data models - one for signal collection and processing (input) and the other for virtual sound field modeling and rendering (output) - all within a single and easily deployable microservice.  All framework features are accessible through well-defined web APIs enabling easy collaboration among diverse and widely-distributed signal provider and sonification rendering endpoints.
 
